@@ -1,0 +1,3 @@
+The internet is a global network of computers that allows people to communicate and share information. It was first developed in the 1960s by the United States Department of Defense, and it has since grown to become one of the most important technologies in the world.
+
+The internet is made up of a vast network of interconnected computers. These computers are connected to each other through a variety of physical and logical links. The physical links are the cables and other infrastructure that carry data between computers. The logical links are the protocols and standards that define how data is transmitted between computers.
